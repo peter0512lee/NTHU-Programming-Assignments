@@ -1,0 +1,6 @@
+[submodule "NTHU-COM5252-FinTech"]
+	path = NTHU-COM5252-FinTech
+	url = https://github.com/peter0512lee/NTHU-COM5252-FinTech.git
+[submodule "NTHU-CS550300-GameProgramming"]
+	path = NTHU-CS550300-GameProgramming
+	url = https://github.com/peter0512lee/NTHU-CS550300-GameProgramming.git
