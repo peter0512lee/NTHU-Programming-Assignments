@@ -4,3 +4,12 @@
 [submodule "NTHU-CS550300-GameProgramming"]
 	path = NTHU-CS550300-GameProgramming
 	url = https://github.com/peter0512lee/NTHU-CS550300-GameProgramming.git
+[submodule "NTHU-IIS5006-Practice-of-the-Attack-and-Defense-of-Computers"]
+	path = NTHU-IIS5006-Practice-of-the-Attack-and-Defense-of-Computers
+	url = https://github.com/peter0512lee/NTHU-IIS5006-Practice-of-the-Attack-and-Defense-of-Computers.git
+[submodule "NTHU-CS5500-Computer-Graphic"]
+	path = NTHU-CS5500-Computer-Graphic
+	url = https://github.com/peter0512lee/NTHU-CS5500-Computer-Graphic.git
+[submodule "NTHU-CS5620-Robotic-Navigation-and-Exploration"]
+	path = NTHU-CS5620-Robotic-Navigation-and-Exploration
+	url = https://github.com/peter0512lee/NTHU-CS5620-Robotic-Navigation-and-Exploration.git
